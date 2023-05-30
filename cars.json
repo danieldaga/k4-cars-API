@@ -244,6 +244,20 @@
             "avalaible": true,
             "link": "https://www.coches.net/volkswagen-golf-14-tsi-dsg-gte--2015-en-madrid-55209924-covo.aspx",
             "imgCar": "https://a.ccdn.es/cnet/2023/05/25/55209924/670061596_g.jpg/712x535cut/"
+        },{
+            "_id": "52801",
+            "nameCar": "PEUGEOT 308 GTi 270",
+            "price": "25.990 €",
+            "avalaible": true,
+            "link": "https://www.coches.net/peugeot-308-gti-270-gasolina-2016-en-madrid-55149971-covo.aspx",
+            "imgCar": "https://a.ccdn.es/cnet/2023/05/23/55149971/669524370_g.jpg/712x535cut/"
+        },{
+            "_id": "52802",
+            "nameCar": "BMW X6 xDrive30d",
+            "price": "34.900 €",
+            "avalaible": true,
+            "link": "https://www.coches.net/bmw-x6-xdrive30d-diesel-2015-en-madrid-55146663-covo.aspx",
+            "imgCar": "https://a.ccdn.es/cnet/2023/05/23/55146663/669436389_g.jpg/712x535cut/"
         }
 
     ]
